@@ -1,0 +1,29 @@
+﻿<Window x:Class="ExamSession.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamSession"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="{materialDesign:MaterialDesignFont}"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="White">
+        <StackPanel>
+            <Image Height="90" Source="logo.png" Margin="0,50,0,0">
+                <Image.Effect>
+                    <DropShadowEffect Opacity="0.5" BlurRadius="4" Direction="270" RenderingBias="Quality" ShadowDepth="1"/>
+                </Image.Effect>
+            </Image>
+            <TextBox x:Name="textBoxLogin" materialDesign:HintAssist.Hint="Логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#FFB86BE4" SelectionBrush="#FFB86BE4" FontFamily="Comic Sans MS"  HorizontalAlignment="Center" Width="367" Margin="0,20,0,0" BorderBrush="#FF01A0E2" Foreground="#FF01A0E2"/>
+            <PasswordBox x:Name="passwordBox" materialDesign:HintAssist.Hint="Пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" CaretBrush="#FFB86BE4" SelectionBrush="#FFB86BE4" FontFamily="Comic Sans MS"  HorizontalAlignment="Center" Width="367" Margin="0,0,0,0" Background="Transparent" BorderBrush="#FF01A0E2" Foreground="#FF01A0E2"/>
+            <Button x:Name="buttonInput" Content="Войти" Margin="212,20,212,0" FontWeight="Normal" Style="{StaticResource MaterialDesignOutlinedButton}" Click="buttonInput_Click"/>
+            <Button x:Name="buttonStud" Content="Войти как студент" Margin="212,20,212,0" FontWeight="Normal" Style="{StaticResource MaterialDesignFlatButton}" Click="buttonStud_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

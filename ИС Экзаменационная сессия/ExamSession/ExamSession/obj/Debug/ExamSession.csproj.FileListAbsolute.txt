@@ -1,0 +1,164 @@
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\ExamSession.exe.config
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.dll
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.pdb
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.csprojAssemblyReference.cache
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\MainWindow.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\App.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.cache
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.lref
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\App.baml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\MainWindow.baml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.g.resources
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.Properties.Resources.resources
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.GenerateResource.cache
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CoreCompileInputs.cache
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CopyComplete
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\menu.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\menu.baml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ISP31.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ISP31.baml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\EntityFramework.dll
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.dll
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\EntityFramework.xml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.xml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\bin\Debug\ru\EntityFramework.resources.dll
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\ExamSession_Content.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.baml
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\windowAdd.g.cs
+F:\Производственная практика 3 курс\Новая папка\ExamSession\ExamSession\obj\Debug\windowAdd.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.exe.config
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.dll
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.dll
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.dll
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.xml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.xml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.pdb
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\bin\Debug\ru\EntityFramework.resources.dll
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csprojAssemblyReference.cache
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ISP31.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\MainWindow.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\menu.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\TestIS.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\windowAdd.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\App.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_Content.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.cache
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.lref
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\App.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ISP31.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\MainWindow.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\menu.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\windowAdd.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\TestIS.baml
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.g.resources
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.Properties.Resources.resources
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.GenerateResource.cache
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CoreCompileInputs.cache
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CopyComplete
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\windowAdd2.g.cs
+F:\Производственная практика 3 курс\Новая папка — копия — копия\ExamSession\ExamSession\obj\Debug\windowAdd2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\ExamSession.exe.config
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\EntityFramework.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\EntityFramework.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\bin\Debug\ru\EntityFramework.resources.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.csprojAssemblyReference.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ISP31.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\MainWindow.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\menu.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\TestIS.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\windowAdd.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\windowAdd2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\App.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession_Content.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.lref
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\App.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ISP31.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\MainWindow.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\menu.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\TestIS.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\windowAdd.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\windowAdd2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.g.resources
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.Properties.Resources.resources
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.GenerateResource.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CoreCompileInputs.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CopyComplete
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия\ExamSession\ExamSession\obj\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.exe.config
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\ExamSession.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\EntityFramework.SqlServer.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignColors.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\bin\Debug\ru\EntityFramework.resources.dll
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csprojAssemblyReference.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ISP31.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ISP31_2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\MainWindow.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\menu.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\menu2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS_2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\TestIS.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\TestIS_2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\windowAdd.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\windowAdd2.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\App.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_Content.g.cs
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession_MarkupCompile.lref
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\App.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ISP31.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\MainWindow.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\menu.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\TestIS.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\windowAdd.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\windowAdd2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ISP31_2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\menu2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\RazrabotkaIS_2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\TestIS_2.baml
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.g.resources
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.Properties.Resources.resources
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.GenerateResource.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CoreCompileInputs.cache
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.csproj.CopyComplete
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.exe
+F:\Производственная практика 3 курс\ИС Экзаменационная сессия — копия\ExamSession\ExamSession\obj\Debug\ExamSession.pdb

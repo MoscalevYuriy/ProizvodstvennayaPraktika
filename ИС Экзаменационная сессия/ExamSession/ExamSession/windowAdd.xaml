@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamSession"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Name="windowAdd1" x:Class="ExamSession.windowAdd"
+        mc:Ignorable="d"
+        Title="" Height="229" Width="400" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="textBoxFIO" Text="{Binding ФИО}" materialDesign:HintAssist.Hint="ФИО" Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#FFB86BE4" SelectionBrush="#FFB86BE4" FontFamily="Comic Sans MS"  HorizontalAlignment="Center" Width="367" Margin="0,20,0,0" BorderBrush="#FF01A0E2" Foreground="#FF01A0E2"/>
+            <TextBox x:Name="textBoxTricket" Text="{Binding Номер_билета}" materialDesign:HintAssist.Hint="№ билета" Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#FFB86BE4" SelectionBrush="#FFB86BE4" FontFamily="Comic Sans MS"  HorizontalAlignment="Center" Width="367" Margin="0,0,0,0" BorderBrush="#FF01A0E2" Foreground="#FF01A0E2" PreviewTextInput="textBoxTricket_PreviewTextInput"/>
+            <TextBox x:Name="textBoxOcenka" Text="{Binding Оценка}" materialDesign:HintAssist.Hint="Оценка" Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="#FFB86BE4" SelectionBrush="#FFB86BE4" FontFamily="Comic Sans MS"  HorizontalAlignment="Center" Width="367" Margin="0,0,0,0" BorderBrush="#FF01A0E2" Foreground="#FF01A0E2" PreviewTextInput="textBoxOcenka_PreviewTextInput"/>
+            <Button x:Name="buttonAdd" Content="Добавить" Margin="10,20,10,0" FontWeight="Normal" Style="{StaticResource MaterialDesignOutlinedButton}" Click="buttonAdd_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ExamSessionModelContainer" CdmEntityContainer="ExamSessionEntities">
+    <EntitySetMapping Name="РазработкаИС">
+      <EntityTypeMapping TypeName="ExamSessionModel.РазработкаИС">
+        <MappingFragment StoreEntitySet="РазработкаИС">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Номер_билета" ColumnName="Номер_билета" />
+          <ScalarProperty Name="Оценка" ColumnName="Оценка" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ТестированиеИС">
+      <EntityTypeMapping TypeName="ExamSessionModel.ТестированиеИС">
+        <MappingFragment StoreEntitySet="ТестированиеИС">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Номер_билета" ColumnName="Номер_билета" />
+          <ScalarProperty Name="Оценка" ColumnName="Оценка" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

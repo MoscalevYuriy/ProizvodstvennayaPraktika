@@ -1,0 +1,33 @@
+﻿<Page x:Class="ExamSession.TestIS"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ExamSession"
+      mc:Ignorable="d" 
+      d:DesignHeight="472" d:DesignWidth="920"
+      Title="TestIS">
+    <Grid>
+        <StackPanel Background="#FFE0E0E0">
+            <DataGrid x:Name="dataGrid1" Height="356" Margin="20,20,20,0" Background="White" IsReadOnly="True" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ФИО" Binding="{Binding ФИО}" Width="auto"/>
+                    <DataGridTextColumn Header="№ билета" Binding="{Binding Номер_билета}" Width="auto"/>
+                    <DataGridTextColumn Header="Оценка" Binding="{Binding Оценка}" Width="auto"/>
+                    <DataGridTemplateColumn Width="auto">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image x:Name="imageEdit" Source="edit.png" Width="15" Height="15" MouseLeftButtonDown="imageEdit_MouseLeftButtonDown"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Button x:Name="buttonAddRaz" Content="Добавить" FontWeight="Normal" Style="{StaticResource MaterialDesignOutlinedButton}" Height="Auto" FontSize="22" Margin="596,389,188,43" Click="buttonAddRaz_Click"/>
+        <Button x:Name="buttonDel" Content="Удалить" FontWeight="Normal" Style="{StaticResource MaterialDesignOutlinedButton}" Height="Auto" FontSize="22" Margin="752,389,20,43" Click="buttonDel_Click"/>
+        <Button x:Name="buttonBack" Content="Вернуться" FontWeight="Normal" Style="{StaticResource MaterialDesignOutlinedButton}" Height="Auto" FontSize="22" Margin="20,389,762,43" Click="buttonBack_Click"/>
+        <Image HorizontalAlignment="Left" Height="40" Margin="540,389,0,0" VerticalAlignment="Top" Width="41" Source="refresh.png" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+        <Frame x:Name="MyFrame" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Page>
